@@ -14,7 +14,7 @@ function StartSeach() {
         t = t.replace('台', '臺');
     } else { };
 
-    var url = "https://ptx.transportdata.tw/MOTC/v2/Rail/TRA/Station?$select=StationID%2CStationName&$filter=StationName%2FZh_tw%20eq%20'" + t + "'&$top=30&$format=JSON"
+    var url = "https://ptx.transportdata.tw/MOTC/v2/Rail/TRA/Station?$select=StationID%2CStationName&$filter=StationName%2FZh_tw%20eq%20'" + t + "'&$top=60&$format=JSON"
     $.ajax({
         type: "GET",
         url: url,
