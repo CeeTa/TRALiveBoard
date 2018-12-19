@@ -1,3 +1,4 @@
-1.¤Î®É¥xÅK®É¨èªí¬d¸ß
-2.OData»yªk
-3.¸ê®Æ«¬ºA¡÷json
+https://ceeta.github.io/TRALiveBoard/
+1.å³æ™‚å°éµæ™‚åˆ»è¡¨æŸ¥è©¢
+2.ODataèªæ³•
+3.è³‡æ–™å‹æ…‹â†’json
